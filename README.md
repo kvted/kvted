@@ -9,6 +9,6 @@
 </br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-
+<p align="center">
 <img align="center" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=kvted&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" /><img align="center" width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=kvted&theme=vue-dark&hide_border=true" />
-
+</p>
